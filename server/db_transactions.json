@@ -1,0 +1,16 @@
+{
+  "transactions": [
+    {
+      "name": "Salary form Job",
+      "type": "income",
+      "amount": 75000,
+      "id": 1
+    },
+    {
+      "name": "Salary form google",
+      "type": "income",
+      "amount": 50000000,
+      "id": 2
+    }
+  ]
+}
